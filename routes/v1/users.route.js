@@ -1,5 +1,5 @@
 const express = require("express");
-const { getAllUsers, getRandomUser, saveUser, updateUser, updateMultipleUser } = require("../../controllers/users.controller");
+const { getAllUsers, getRandomUser, saveUser, updateUser, updateMultipleUser, deleteUser } = require("../../controllers/users.controller");
 const router = express.Router();
 
 router
@@ -21,6 +21,10 @@ router
 router
 .route('/bulk-update')
 .patch(updateMultipleUser)
+
+router
+.route('/delete/:id')
+.delete(deleteUser)
 
 
 

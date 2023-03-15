@@ -58,10 +58,18 @@ const updateMultipleUser = (req, res) => {
   res.send(users)
 };
 
+
+const deleteUser = (req, res) => {
+  const id = req.params.id;
+  const deleteUser = users.filter(user => user.id != id);
+  res.send(deleteUser)
+}
+
 module.exports = {
   getAllUsers,
   getRandomUser,
   saveUser,
   updateUser,
   updateMultipleUser,
+  deleteUser
 };
