@@ -1,0 +1,88 @@
+[
+  {
+    "id": 1,
+    "gender": "male",
+    "name": "xavier",
+    "contact": "01721456399",
+    "address": "coventry uk",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 2,
+    "gender": "female",
+    "name": "lara croft",
+    "contact": "01320156982",
+    "address": "california usa",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 3,
+    "gender": "male",
+    "name": "john smith",
+    "contact": "01998756422",
+    "address": "berlin germany",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 4,
+    "gender": "male",
+    "name": "mike robson",
+    "contact": "01662541398",
+    "address": "paris france",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 5,
+    "gender": "female",
+    "name": "zara jordan",
+    "contact": "01821457896",
+    "address": "beirut lebanon",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 6,
+    "gender": "male",
+    "name": "don omar",
+    "contact": "01547825369",
+    "address": "brasilia brazil",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+
+  {
+    "id": 7,
+    "gender": "female",
+    "name": "georgina rodriguez",
+    "contact": "01454532553",
+    "address": "madrid spain",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+  {
+    "id": 8,
+    "gender": "male",
+    "name": "donald lue",
+    "contact": "01821421362",
+    "address": "virginia usa",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+  {
+    "id": 9,
+    "gender": "male",
+    "name": "jack thomas",
+    "contact": "01789214533",
+    "address": "alberta canada",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  },
+  {
+    "id": 10,
+    "gender": "female",
+    "name": "emma",
+    "contact": "01824545896",
+    "address": "victoria canada",
+    "photoUrl": "https://i.ibb.co/GQLtB8B/hairstyle.jpg"
+  }
+]
